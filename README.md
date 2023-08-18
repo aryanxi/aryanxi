@@ -45,6 +45,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aryanxi/aryanxi/output/snake.svg" alt="Snake animation" />
 
 ###
